@@ -1,1 +1,1 @@
-# new-yorker
+# Hollywood Reporter
