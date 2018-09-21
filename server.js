@@ -25,8 +25,8 @@ var app = express();
 // Use morgan and body parser with our app
 app.use(logger("dev"));
 app.use(bodyParser.urlencoded(
-  extended: false
-}));
+  extended, false
+));
 
 // Make public a static dir
 app.use(express.static("public"));
