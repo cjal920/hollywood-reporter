@@ -1,0 +1,10 @@
+body,
+.jumbotron {
+    background-color: #000000;
+    color: #ffffff;
+    padding-top: 70px;
+}
+
+#scrape {
+    margin: 8px 0px;
+}
